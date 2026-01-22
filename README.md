@@ -4,6 +4,8 @@ I'm Thommy, a software engineering undergraduate studying at the University of T
 
 My specialty comes in web development, specifically in the frontend — React, JavaScript/TypeScript, Tailwind, and other fancy stuff — but I'm also into fullstack development.
 
+Currently working on an IOS app with Swift promoting the habit of journaling taking the idea of BeReal.
+
 ## What I Use
 [![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,py,java)](https://skillicons.dev) <br>
 [![My Frameworks/Libraries](https://skillicons.dev/icons?i=react,vue,nodejs,nextjs,express,tailwind)](https://skillicons.dev) <br>
