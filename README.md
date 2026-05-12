@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Thommy, a software engineering undergraduate studying at the University of Texas at Arlington and am located in the DFW area!
+I'm Thommy, a software engineering undergraduate (graduating spring '27) studying at the University of Texas at Arlington and am located in the DFW area!
 
 My specialty comes in web development, specifically in the frontend — React, JavaScript/TypeScript, Tailwind, and other fancy stuff — but I'm also into fullstack development.
 
@@ -21,9 +21,9 @@ Currently working on an IOS app with Swift to promote the habit of journaling in
 </a>
 
 ## Bit About Me
-* I am heavily involved in one of the largest organizations on my campus.
+* My favorite creative hobby is photography!
 * I like to lift.
-* My new years resolution is to cook more.
+* I hobby hop, and my current hobby im trying to get into is... content creation!
 
 
 
